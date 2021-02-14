@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/allmed"
+    tools:context=".payment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_corner"
+        android:layout_height="80dp">
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+
+            android:textSize="24dp"
+            android:text="PAYPAL"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_baseline_navigate_next_24"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/rounded_corner"
+        android:layout_marginTop="20dp"
+        android:layout_height="80dp">
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:textSize="24dp"
+            android:text="Paytm"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_baseline_navigate_next_24"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/rounded_corner"
+        android:layout_marginTop="20dp"
+        android:layout_height="80dp">
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="80dp"
+            android:textSize="24dp"
+            android:text="DEBIT CARD"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_baseline_navigate_next_24"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#1fddff"
+        android:background="@drawable/rounded_corner1"
+        android:layout_marginTop="50dp"
+        android:text="NEXT"
+        android:textSize="30dp"/>
+
+</LinearLayout>

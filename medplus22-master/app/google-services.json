@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262889882717",
+    "project_id": "medplus2",
+    "storage_bucket": "medplus2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262889882717:android:8b30339f72b9ca850639b4",
+        "android_client_info": {
+          "package_name": "com.example.medplus2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262889882717-i2251eh2feoinp0d193dvfka2c49aa6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGE8EwCduiqhUVwFDZeYEJSoXRiKiTVA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262889882717-i2251eh2feoinp0d193dvfka2c49aa6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
