@@ -1,14 +1,21 @@
 # medplus123
 
 # Mr.Doctor
+
+![image](https://user-images.githubusercontent.com/58247847/107901021-ac201e00-6f68-11eb-8fcc-7fe030002eb0.jpg)
+# icon of the doctor app
+
 # screens of doctor app
 
 ![WhatsApp Image 2021-02-14 at 10 35 25 PM](https://user-images.githubusercontent.com/58247847/107898317-71ff4e00-6f61-11eb-8c92-a6505044e683.jpeg)
 # starting screen of doctor app
+
 ![WhatsApp Image 2021-02-14 at 10 35 25 PM (1)](https://user-images.githubusercontent.com/58247847/107898420-a96dfa80-6f61-11eb-9ee1-1b80dd65e416.jpeg)
 # registeration page for doctor
+
 ![WhatsApp Image 2021-02-14 at 10 35 26 PM](https://user-images.githubusercontent.com/58247847/107898463-c7d3f600-6f61-11eb-864f-780cf2531d31.jpeg)
 # Home Screen for doctor
+
 ![WhatsApp Image 2021-02-14 at 10 35 26 PM (1)](https://user-images.githubusercontent.com/58247847/107898519-ecc86900-6f61-11eb-8015-371e9f52d152.jpeg)
 # list of patients who are in queue
 ![WhatsApp Image 2021-02-14 at 10 35 27 PM](https://user-images.githubusercontent.com/58247847/107898600-24cfac00-6f62-11eb-9ea2-5f3d3acaf32f.jpeg)
