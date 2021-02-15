@@ -1,6 +1,8 @@
 # medplus123
 
-# Meddplus1
+# Mr.Doctor
+# screens of doctor app
+
 ![WhatsApp Image 2021-02-14 at 10 35 25 PM](https://user-images.githubusercontent.com/58247847/107898317-71ff4e00-6f61-11eb-8c92-a6505044e683.jpeg)
 # starting screen of doctor app
 ![WhatsApp Image 2021-02-14 at 10 35 25 PM (1)](https://user-images.githubusercontent.com/58247847/107898420-a96dfa80-6f61-11eb-9ee1-1b80dd65e416.jpeg)
@@ -46,4 +48,34 @@
 ![WhatsApp Image 2021-02-14 at 10 37 08 PM](https://user-images.githubusercontent.com/58247847/107899633-cfe16500-6f64-11eb-9fe4-6b75b78753bc.jpeg)
 # page where diagnosist add the medical test
 # these are the overall screens of doctor app
+# ................
+# ..........
+
+# patient app screens
+![health-insurance (1)](https://user-images.githubusercontent.com/58247847/107900095-171c2580-6f66-11eb-81ab-cdcf874f7b7e.png)
+# icon of patient app
+![WhatsApp Image 2021-02-14 at 10 37 29 PM](https://user-images.githubusercontent.com/58247847/107900163-46cb2d80-6f66-11eb-9730-07017f21abb3.jpeg)
+# starting page of patient
+![WhatsApp Image 2021-02-14 at 10 37 30 PM (1)](https://user-images.githubusercontent.com/58247847/107900228-68c4b000-6f66-11eb-8cec-0cbd784b0212.jpeg)
+# on clicking the status it display the status of patient
+![WhatsApp Image 2021-02-14 at 10 37 30 PM (2)](https://user-images.githubusercontent.com/58247847/107900267-88f46f00-6f66-11eb-964b-e603ecadbe2d.jpeg)
+# on clicking the diet it shows the diet of patient
+![WhatsApp Image 2021-02-14 at 10 37 31 PM](https://user-images.githubusercontent.com/58247847/107900310-a88b9780-6f66-11eb-8342-29ac90c8a925.jpeg)
+# new op 
+![WhatsApp Image 2021-02-14 at 10 37 32 PM](https://user-images.githubusercontent.com/58247847/107900348-be00c180-6f66-11eb-8d9d-168f3924b724.jpeg)
+# list of doctors in nearest location
+![WhatsApp Image 2021-02-14 at 10 37 32 PM (1)](https://user-images.githubusercontent.com/58247847/107900375-d7097280-6f66-11eb-8592-6e8fdd7761c0.jpeg)
+# list of doctors in wide location
+![WhatsApp Image 2021-02-14 at 10 37 37 PM](https://user-images.githubusercontent.com/58247847/107900411-ef798d00-6f66-11eb-8d29-a8df83c698d4.jpeg)
+# screen where doctor and patient meet
+![WhatsApp Image 2021-02-15 at 8 24 03 AM](https://user-images.githubusercontent.com/58247847/107900545-4bdcac80-6f67-11eb-9461-4db7870228cd.jpeg)
+# tablets which are recomended by the doctor
+![WhatsApp Image 2021-02-15 at 8 24 12 AM](https://user-images.githubusercontent.com/58247847/107900578-657df400-6f67-11eb-8b38-4ca5417bcd3c.jpeg)
+# payment screen
+![WhatsApp Image 2021-02-14 at 10 37 29 PM](https://user-images.githubusercontent.com/58247847/107900163-46cb2d80-6f66-11eb-9730-07017f21abb3.jpeg)
+# starting page of patient
+![WhatsApp Image 2021-02-14 at 10 37 30 PM](https://user-images.githubusercontent.com/58247847/107900658-ab3abc80-6f67-11eb-882c-e8a8f332c74a.jpeg)
+# notifications for the patient
+
+
 
